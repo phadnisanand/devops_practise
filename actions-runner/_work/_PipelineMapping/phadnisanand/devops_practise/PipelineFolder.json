@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "phadnisanand/devops_practise",
+  "pipelineDirectory": "devops_practise",
+  "workspaceDirectory": "devops_practise\\devops_practise",
+  "repositories": {
+    "phadnisanand/devops_practise": {
+      "repositoryPath": "devops_practise\\devops_practise",
+      "lastRunOn": "07/30/2025 10:44:44 +05:30"
+    }
+  },
+  "lastRunOn": "07/30/2025 10:44:44 +05:30"
+}

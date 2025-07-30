@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 4,
+  "agentName": "ANAND",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/WNhN0eEOcNDJc2bmr1NiuwAseNKaHIAxUFUAf72iidnF0eYXsK/",
+  "gitHubUrl": "https://github.com/phadnisanand/devops_practise",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
